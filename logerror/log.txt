@@ -1,0 +1,15 @@
+2018-03-30 12:01:37,100 ERROR   : Error Message
+Traceback (most recent call last):
+  File "D:/python/logerror/test1.py", line 10, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2018-03-30 12:04:07,324 ERROR   : Error Message
+Traceback (most recent call last):
+  File "D:/python/logerror/test1.py", line 10, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2018-03-30 12:04:35,371 ERROR   : Error Message
+Traceback (most recent call last):
+  File "D:/python/logerror/test1.py", line 13, in <module>
+    fun(1)
+TypeError: fun() takes 0 positional arguments but 1 was given
